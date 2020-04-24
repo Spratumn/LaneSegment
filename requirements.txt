@@ -1,0 +1,7 @@
+tqdm
+matplotlib
+pandas
+imgaug
+sklearn
+torchsummary
+
